@@ -1,2 +1,2 @@
 # pixellate_face_in_Video
-Pixellate any face in video using haar face detection, 
+Detect and pixellate faces in the picture, with varying pixel size
